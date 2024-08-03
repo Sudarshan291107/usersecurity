@@ -1,4 +1,4 @@
-﻿Links,Time1 ,Time2,ClickCount,Frequency
+﻿Links,Time1 ,Time2,ClickCount,Frequency 
 http://localhost/phpmyadmin/#PMAURL-4:db_import.php?db=vlabreg&table=&server=1&target=&token=3dd82e05bc7c70101b824d17d0ddb6af,1521589996,1521589996,1,86
 http://localhost/phpmyadmin/import.php#PMAURL-1:db_structure.php?db=vlabproblem&table=&server=1&target=&token=3dd82e05bc7c70101b824d17d0ddb6af,1521590023,1521590023,1,86
 http://localhost/phpmyadmin/import.php#PMAURL-2:db_structure.php?db=vlabreg&table=&server=1&target=&token=3dd82e05bc7c70101b824d17d0ddb6af,1521590024,1521590024,1,86
