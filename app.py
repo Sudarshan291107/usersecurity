@@ -4,7 +4,6 @@ from urllib.parse import urlparse
 from flask import Flask, render_template, request, redirect, url_for
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
-
 app = Flask(__name__)
 app.static_folder = 'static'
 
