@@ -2,7 +2,7 @@
 
 This repository contains code and resources for clustering users based on their search activity for targeted advertisements. The goal is to group users with similar search patterns together while protecting their private data by generalizing the data at the local level.
 
-## Overview
+## Overview 
 
 In today's digital world, targeted advertising has become increasingly prevalent. Companies collect vast user data to tailor advertisements based on individual preferences and behaviors. However, there are growing concerns about privacy and data protection.
 
